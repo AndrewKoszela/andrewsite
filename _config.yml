@@ -1,0 +1,10 @@
+# Site settings
+title: Andrew Koszela - A blog about Andrew
+email: AndrewKoszela@gmail.com
+description: A blog about my favorite person Andrew.
+url: "http://andrewkoszela@gmail.com" # the base hostname & protocol for your site
+twitter_username: AndrewKoszela
+
+# Build settings
+markdown: kramdown
+permalink: /:title
